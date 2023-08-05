@@ -1,0 +1,17 @@
+C:\Projects\Deco\AbrahamCGPruebaTecnica\bin\Release\net7.0-windows\AbrahamCGPruebaTecnica.exe
+C:\Projects\Deco\AbrahamCGPruebaTecnica\bin\Release\net7.0-windows\AbrahamCGPruebaTecnica.deps.json
+C:\Projects\Deco\AbrahamCGPruebaTecnica\bin\Release\net7.0-windows\AbrahamCGPruebaTecnica.runtimeconfig.json
+C:\Projects\Deco\AbrahamCGPruebaTecnica\bin\Release\net7.0-windows\AbrahamCGPruebaTecnica.dll
+C:\Projects\Deco\AbrahamCGPruebaTecnica\bin\Release\net7.0-windows\AbrahamCGPruebaTecnica.pdb
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.csproj.AssemblyReference.cache
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.Form1.resources
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.csproj.GenerateResource.cache
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.AssemblyInfoInputs.cache
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.AssemblyInfo.cs
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.dll
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\refint\AbrahamCGPruebaTecnica.dll
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.pdb
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\AbrahamCGPruebaTecnica.genruntimeconfig.cache
+C:\Projects\Deco\AbrahamCGPruebaTecnica\obj\Release\net7.0-windows\ref\AbrahamCGPruebaTecnica.dll
